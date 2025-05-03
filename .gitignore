@@ -1,0 +1,15 @@
+# Ignore all folders except portfolio-card
+day1-html-intro/
+day2-html-links-images/
+day3-html-forms/
+day4-html-css-basics/
+day5-css-typography-lists/
+day6-flexbox-basics/
+day7-mini-project-about-me/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
