@@ -7,6 +7,9 @@ Perfect for training layout skills or using as a personal landing page.
 
 👉 [View the site](https://condrusarsen.github.io/portfolio-card/)
 
+![Preview](items/preview.png)
+
+
 ## 📁 Project Structure
 
 ```text
