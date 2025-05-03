@@ -16,8 +16,7 @@ Perfect for training layout skills or using as a personal landing page.
 ├── 📁 items/
 │   ├── 🖼️ photo.jpg
 │   └── 🖼️ photo_ania.jpg
-├── 📄 README.md
-└── 📄 .gitignore
+└── 📄 README.md
 ```
 
 
