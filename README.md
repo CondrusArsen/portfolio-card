@@ -9,12 +9,14 @@ Perfect for training layout skills or using as a personal landing page.
 
 ## 📁 Project Structure
 
-portfolio-card/
-├── index.html
-├── style.css
-└── items/
-├── photo.jpg
-└── photo_ania.jpg
+📦 root/
+├── 📄 index.html
+├── 📄 style.css
+├── 📁 items/
+│ ├── 🖼️ photo.jpg
+│ └── 🖼️ photo_ania.jpg
+├── 📄 README.md
+└── 📄 .gitignore
 
 
 ## 💡 Features
